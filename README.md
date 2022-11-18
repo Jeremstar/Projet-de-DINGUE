@@ -1,3 +1,2 @@
 # Projet-de-DINGUE
-Projet python IMDB
-hello
+Projet python IMDb
