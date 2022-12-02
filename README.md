@@ -10,4 +10,9 @@ Projet python IMDb
 -variables à expliquer (bénéfice, note moyenne) \
 
 
-**2 décembre :**\
+**2 décembre :** \
+-tentative de merge les données \
+-j'arrive pas à faire des commit \
+
+
+
