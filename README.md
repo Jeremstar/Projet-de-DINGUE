@@ -12,7 +12,10 @@ Projet python IMDb
 
 **2 décembre :** \
 -tentative de merge les données \
--j'arrive pas à faire des commit \
+-on arrivait pas à faire des commit mais maintenant c'est bon \
+-scrapping illégal et dangereux d'IMDb \
+-dispo dans la dataframe : identifiant/note/nb votes \
+
 
 
 
